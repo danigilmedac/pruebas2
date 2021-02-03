@@ -1,2 +1,2 @@
-# pruebas2
-Repositorio de pruebas
+# Nueva rama 
+Lorem ipsum
